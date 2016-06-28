@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="podcasts">podcasts</string>
+    <string name="topFiftyTracks"> Top Fifty Tracks</string>
+    <string name="radioHits">Radio Hits</string>
+    <string name="moodBasedTracks">Mood Based Tracks</string>
+    <string name="browseMore"> Browse more songs</string>
+    <string name="info">Here we will have list view of songs which user have listened previously</string>
+    <string name="info_music">Here we will have floating music player</string>
+    <string name="here_we_will_have_floating_music_player">Here we will have floating music player</string>
+    <string name="here_we_will_have_list_view_of_top_podcasts_from_different_sources">Here we will have list view of top podcasts from different sources</string>
+    <string name="go_back">Go Back</string>
+    <string name="here_we_will_have_list_view_of_top_online_radio_channels">Here we will have list view of top Online Radio Channels</string>
+    <string name="music_player">Here we will have floating music player</string>
+    <string name="floating_music_player">Here we will have floating music player</string>
+    <string name="songs_collection">Here We will have cardview (AndroidMaterial Design) songs collection</string>
+    <string name="music_player_tracks">Here we will have floating music player</string>
+    <string name="here_we_will_have_list_view_of_top_50_tracks">Here we will have list view of top 50 tracks</string>
+</resources>
